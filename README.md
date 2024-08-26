@@ -1,1 +1,7 @@
-# TB_data_analysis
+#Tuberculosis Data Analsis.
+
+Dataset is from WHO,
+Tasks I did:
+-Data Cleaning
+-Data Visualization
+-EDA
